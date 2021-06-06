@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn Web Development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on on exciting projects!
-- 📫 How to reach me om Instagram 10_messi_jatin
+- 📫 How to reach me on Instagram 10_messi_jatin
 
 <!---
 Jatin-code10/Jatin-code10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
